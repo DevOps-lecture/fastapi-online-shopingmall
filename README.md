@@ -6,16 +6,16 @@
 
 ## [기술 스택]
 
-언어: Python 3.9+
-웹 프레임워크: FastAPI
-ORM: SQLAlchemy
-데이터베이스: PostgreSQL
-인증: JWT(JSON Web Tokens)
-문서화: Swagger/OpenAPI
-테스트: pytest
-배포: Docker, GitHub Actions, AWS
+언어: Python 3.9+ </br>
+웹 프레임워크: FastAPI </br>
+ORM: SQLAlchemy </br>
+데이터베이스: PostgreSQL </br>
+인증: JWT(JSON Web Tokens) </br>
+문서화: Swagger/OpenAPI </br>
+테스트: pytest </br>
+배포: Docker, GitHub Actions, AWS </br>
 
-## [주요 기능]
+## [주요 기능] </br>
 
 1. 사용자 관리 및 인증
 
