@@ -4,7 +4,8 @@
 본 프로젝트는 Java 개발자가 Python FastAPI를 사용하여 구현한 전자상거래 API 시스템입니다. 
 이 API는 제품 관리, 사용자 인증, 장바구니, 주문 처리, 결제 시스템을 포함하는 완전한 쇼핑몰 백엔드 서비스를 제공합니다.
 
-[기술 스택]
+## [기술 스택]
+
 언어: Python 3.9+
 웹 프레임워크: FastAPI
 ORM: SQLAlchemy
@@ -14,7 +15,8 @@ ORM: SQLAlchemy
 테스트: pytest
 배포: Docker, GitHub Actions, AWS
 
-주요 기능
+## [주요 기능]
+
 1. 사용자 관리 및 인증
 
 회원가입 및 로그인
